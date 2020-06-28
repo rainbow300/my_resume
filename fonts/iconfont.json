@@ -1,0 +1,58 @@
+{
+  "id": "1908599",
+  "name": "简历",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5088233",
+      "name": "二",
+      "font_class": "_er",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "5088242",
+      "name": "三",
+      "font_class": "_san",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "5088248",
+      "name": "一",
+      "font_class": "_yi",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "4488855",
+      "name": "求职状态",
+      "font_class": "qiuzhizhuangtai",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "6171698",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7516912",
+      "name": "学历",
+      "font_class": "xueli",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14471613",
+      "name": "年龄",
+      "font_class": "nianling",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
